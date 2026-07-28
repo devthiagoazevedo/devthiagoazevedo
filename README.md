@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou Thiago Azevedo, sou Programador Front-End, atualmente estou aprendendo e criando projetos com:
+Eu sou Thiago Azevedo, programador Front-End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
